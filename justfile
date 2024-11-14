@@ -1,3 +1,4 @@
+alias d := dev
 alias b := build
 alias l := lint
 
