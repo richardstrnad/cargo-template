@@ -20,4 +20,4 @@ fmt:
   cargo fmt
 
 dev:
-  watchexec cargo run --bin {{ crate_name }}
+  cargo watch -x "run --bin {{ crate_name }}"
