@@ -1,0 +1,2 @@
+[placeholders]
+favorite_crates = { prompt = "All my favorite crates?", default = true, type = "bool" }
